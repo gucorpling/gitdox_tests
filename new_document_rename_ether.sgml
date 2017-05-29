@@ -1,8 +1,10 @@
 <meta year="2000">
+<phrase phrase="NP">
 <pos pos="DT">
 A
 </pos>
 <pos pos="NN">
 book
+</phrase>
 </pos>
 </meta>
