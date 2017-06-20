@@ -1,10 +1,77 @@
-<meta year="2000">
-<phrase phrase="NP">
-<pos pos="DT">
-A
+<meta author="Shenoute" title="hello" year="2000">
+<cb_n cb_n="1">
+<TEI TEI="TEI">
+<lb_n lb_n="1">
+<orig_group orig_group="ⲁϥⲥⲱⲧⲙ">
+<norm_group norm_group="ⲁϥⲥⲱⲧⲙ">
+<pos pos="APST">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+ⲁ
+</lemma>
+</norm>
+</orig>
 </pos>
-<pos pos="NN">
-book
-</phrase>
+<pos pos="PPERS">
+<orig orig="ϥ">
+<norm norm="ϥ">
+<lemma lemma="ⲛⲧⲟϥ">
+ϥ
+</lemma>
+</norm>
+</orig>
 </pos>
+<pos pos="V">
+<orig orig="ⲥⲱⲧⲙ">
+<norm norm="ⲥⲱⲧⲙ">
+<lemma lemma="ⲥⲱⲧⲙ">
+ⲥ
+<gap_extent gap_extent="2">
+ⲱ
+</gap_extent>
+ⲧⲙ
+</lemma>
+</norm>
+</orig>
+</pos>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲡⲣⲱⲙⲉ">
+<norm_group norm_group="ⲉⲡⲣⲱⲙⲉ">
+<pos pos="PREP">
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉ">
+ⲉ
+</lemma>
+</norm>
+</orig>
+</pos>
+<pos pos="ART">
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+ⲡ
+</lemma>
+</norm>
+</orig>
+</pos>
+<pos pos="N">
+<orig orig="ⲣⲱⲙⲉ">
+<norm norm="ⲣⲱⲙⲉ">
+<lemma lemma="ⲣⲱⲙⲉ">
+ⲣⲱ
+</lb_n>
+<lb_n lb_n="2">
+ⲙⲉ
+</lb_n>
+</lemma>
+</norm>
+</orig>
+</pos>
+</norm_group>
+</orig_group>
+</TEI>
+</cb_n>
 </meta>
